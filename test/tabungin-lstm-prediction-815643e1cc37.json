@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "tabungin-lstm-prediction",
-  "private_key_id": "815643e1cc37fa9cb7ddeeb241a39737263284a4",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCi59OOByUWKgIM\nUyExMPrhL3fQvoR/ivm+I5ugPoc7hJp+S9iu5WVPG6S1JgBS2YZuTW+LR8MJxTq2\nGr+fl6Q95ViK+7223qXva6IK8cADEFzdHXUSnyL9hRqnMQt438ixl3qiuoF0F47F\nV9KQKktbZFiVMznM7VKe9ESPi4P2ySiCxAzZmP5SQbUcnDklNiyDmoq2/PBlSBeO\nwZc+IqxC+gorR7Z5gJva34YVSDMmW9AjzWtrG42NVMOt9W+sr+Al/YtrN42finJ3\noCd6MDRnGauvX42RwFiwLJUqLkvnfFsgq9HANIeiuUSPnj+Plc2vWgwipZGWZTCd\nzPIsOAXFAgMBAAECggEABD/gZqYnO0Ndb3qz/7TA9/f/8TfQZy8Ap0tbVKw05Qz8\nkRADnG0FqMaLlCHO5IUMoEV7BAAwpV6vUqSdfDldh94lomXWk9XjMGeXdUog9w4p\nofynUGpKzyALqzIDaYPgQskKYlgo/CveJfs4a1l9wun58+sUwP9YMPx7FQnaZ35a\noDabecqUFbNa9ouNU7CN+YMzhYxaoio/WpLDNPFPaZWfPzKBERlHO6Ovbbxrh9xL\naNtz9NEeK57fOff40OmlwWY/74jpyfcqahVtS2+jy+w8AzG4QZKyUieSmOAzuOwm\n3ivNkPIF3Si/F0kt3j+eSS9+DCX0uB1v5goXapLcqQKBgQDlkL79M/MDJp2HbhOM\nGnRQbigh3ko4KuGIO+DFm5Du3FmMUupgYB0o/bHXc9PZDmFo8X8CEk1WvRep/TNV\nLQ0etBJ7HO8a1CS9Aw7oPg2ISCUdv4uAypJbyJdXlfjcI11JEQvoZ4CxnGbYYRnC\n+sTOWIXW2hdk4kS3wIC6dEkj+QKBgQC1qguYul4JAUXQrj6fJ40DS1DjABMQsvZi\n4GgIheDWwsbZ8JxKBFKdfbD/XfR+MJy8NBYcVokottnH0RkjFrVC5EjUBCHkCBzj\nhtW/iUNxpiHTBFiOUBC3Yh1R+hCVuFXbvjAt6sO2ZsP9sNEbi6WHb56tW2wwqUWe\nfbzOj5kLLQKBgQC1F9lCPt/eRXERa+lppVjKNgvco9Giu1kMskefOxg7BYJyqtoP\nSuLV+kN3tfyRhsGbGp7ZkHyIB0UKqR38fDyUUvMdQXbxkBanMClrVcAxGNCGxhqT\nb7nDQ9r3kewuJIurXxIotLWV5s5OtVKwOEhWiwiRs5uuzrvsxKQH8kHcaQKBgHhs\nhMt1n6hwg4tWNoTifwPUBYa1Ie5L9DCPeedMeENlUtReP/yA6RMloxNlgRG1v/Cy\nxoV6h+nJbIyc/ADaqMXy9qQ1KRI0npHlbARQRbks2/c6RknwoWQvUihpkFzvmVrV\ntLJ7kcl0Ti/56mRMKiqhv5pDpHCNhW0PBP4ZCubxAoGAARtlLtuCC5gzJdKNU4gh\nUOHDniHdfmaQrcmNZ2OF3X2A8SNw/b6gL0n+g+ym390a7HrurvbArOVv4QlC23zr\nJG/tWjNW0GYX8Aon+JwtPi/Z4ccGtDo4Iu4hTAyDpAPpQDlVCHvzwfsQ7RrF0KB9\nF+nNGvJBDE5XskCtxK546sw=\n-----END PRIVATE KEY-----\n",
-  "client_email": "tabungin-apps@tabungin-lstm-prediction.iam.gserviceaccount.com",
-  "client_id": "100652778904147293882",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tabungin-apps%40tabungin-lstm-prediction.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
